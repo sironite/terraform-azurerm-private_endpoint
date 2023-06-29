@@ -18,5 +18,4 @@ resource "azurerm_private_endpoint" "this" {
   }
 
   tags = var.tags
-
 }
