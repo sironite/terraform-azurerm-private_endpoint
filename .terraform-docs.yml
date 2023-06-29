@@ -8,9 +8,9 @@ content: |-
 
   # Usage - Module
 
-  ## Network Watcher Flow Log
+  ## Private Endpoint
   ```hcl
-  {{ include "examples/network-watcher-flow-log-example/main.tf" }}
+  {{ include "examples/PrivateEndpoint/main.tf" }}
   ```
 
   {{ .Providers }}

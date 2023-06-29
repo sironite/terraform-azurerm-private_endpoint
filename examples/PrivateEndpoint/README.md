@@ -1,6 +1,6 @@
-# Terraform module | AzureRM - Invullen
+# Terraform module | AzureRM - Private Endpoint
 
-This Terraform module is designed to create a Invullen for Azure.
+This Terraform module is designed to create a Private Endpoint for Azure.
 
 ## Pre-requisites
 
@@ -9,7 +9,7 @@ Using the modules requires the following pre-requisites:
 
 ## Usage
 
-`Invullen`
+`Private Endpoint`
 
 ```hcl
 
