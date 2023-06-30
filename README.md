@@ -69,7 +69,6 @@ No modules.
 
 | Name | Description |
 |------|-------------|
-| private\_endpoint\_fqdn | The FQDN of the private endpoint. |
 | private\_endpoint\_id | The ID of the private endpoint. |
 | private\_endpoint\_name | The name of the private endpoint. |
 
